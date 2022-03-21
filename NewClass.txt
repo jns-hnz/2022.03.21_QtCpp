@@ -1,0 +1,7 @@
+class Foo : public Bar {
+public:
+	Foo(int k = 5) {}
+
+private:
+	double n = 10;
+};
